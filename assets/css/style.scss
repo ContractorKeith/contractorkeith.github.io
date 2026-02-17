@@ -3,6 +3,26 @@
 
 @import "jekyll-theme-architect";
 
+/* Header background */
+header {
+  background: #dd8261;
+}
+
+/* Title text */
+header h1 {
+  color: #F0EEE6;
+}
+
+/* Tagline text */
+header h2 {
+  color: #F0EEE6;
+}
+
+/* GitHub button */
+header .button {
+  background: #ECBCAB;
+  border-color: #3D3D3A;
+}
 /* ── Nav bar ── */
 .site-nav {
   background: #dd8261;
