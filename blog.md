@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: notes
 permalink: /blog
 ---
 
-# Blog
+# notes
 
-Notes on construction tech, estimating tools, and what I'm learning.
+eventually i will write some
 
 ---
 

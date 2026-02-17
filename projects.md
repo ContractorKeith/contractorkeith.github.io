@@ -1,17 +1,17 @@
 ---
-title: Projects
+title: projects
 permalink: /projects
 ---
 
-# Projects
+# projects
 
-Tools and repos I'm building to streamline fence estimating and construction workflows.
+tools and repos i am building or working with
 
 ---
 
 <div class="project-card">
   <h3><a href="https://github.com/ContractorKeith">GitHub Profile</a></h3>
-  <p>Browse all my repos on GitHub — estimating tools, internal utilities, and experiments.</p>
+  <p>browse all my repos, if you want..</p>
 </div>
 
 <!--

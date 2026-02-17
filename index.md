@@ -5,13 +5,13 @@ permalink: /
 
 # Welcome
 
-I'm Keith — a fence estimator at Complete Custom Fence in Central Florida with 35+ years in the construction industry. I'm building internal tools to streamline my estimating workflow and documenting the process here.
+I'm ContractorKeith - been in construction as an electrician, plumber, GC, home builder, estimator, PM, owner, and anythinbg else you can think of, for 37yrs. I have spent the last couple of years trying to learn code, and I have broken more than I ever did building buildings...
 
 ## What You'll Find Here
 
-- **[Projects](/projects)** — Tools and repos I'm building and working on
-- **[Blog](/blog)** — Notes on construction tech, tools, and what I'm learning
-- **[About](/about)** — More about me and what I do
+- **[projects](/projects)** — if I complete anything, this is where you will find it.
+- **[notes](/blog)** — notes on tech, tools, ai and what I'm learning
+- **[about](/about)** — more about me and what I do
 
 ---
 
