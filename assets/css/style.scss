@@ -3,6 +3,28 @@
 
 @import "jekyll-theme-architect";
 
+header a.button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: transparent url(https://avatars.githubusercontent.com/u/189427369?s=400&u=8831cbc7eb1e73271f9de0aa1beb83ca0e930030&v=4) 0 0 no-repeat;
+}
+
+header .button {
+    background: #ECBCAB;
+    border-color: #3D3D3A;
+}
+a.button {
+    width: 134px;
+    height: 58px;
+    padding-top: 22px;
+    padding-left: 68px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 23px;
+    line-height: 1.2;
+    color: #fff;
+}
+
 a {
     color: #dd8261
 }
