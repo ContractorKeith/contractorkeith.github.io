@@ -1,0 +1,36 @@
+# Site settings
+title: ContractorKeith
+description: Fence estimating tools, construction tech, and project notes.
+url: https://contractorkeith.github.io
+baseurl: ""
+
+# Theme
+remote_theme: pages-themes/architect@v0.2.0
+show_downloads: false
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Permalink style for blog posts
+permalink: /blog/:year/:month/:day/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: default
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
