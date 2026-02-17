@@ -15,7 +15,7 @@ I'm ContractorKeith - been in construction as an electrician, plumber, GC, home 
 
 ---
 
-## Latest Posts
+### Latest Posts
 
 {% for post in site.posts limit:5 %}
 - **[{{ post.title }}]({{ post.url | relative_url }})** — {{ post.date | date: "%B %d, %Y" }}

@@ -1,11 +1,13 @@
 ---
-title: About
+title: about
 permalink: /about
 ---
 
-# About Me
+# about Me
 
-I'm ContractorKeith - been in construction as an electrician, plumber, GC, home builder, estimator, PM, owner, and anythinbg else you can think of, for 37yrs. I have spent the last couple of years trying to learn code, and I have broken more than I ever did building buildings...
+I'm ContractorKeith - I've been in construction as an electrician, plumber, GC, home builder, estimator, PM, owner, and anythinbg else you can think of, for 37yrs. 
+
+I have spent the last couple of years trying to learn code, and I have broken more than I ever did building buildings...
 
 I will add more as I think of it..
 
@@ -17,7 +19,7 @@ I will add more as I think of it..
 [![](https://img.shields.io/badge/code%20style-mine-999)](https://github.com/sebmestrallet/absurd-badges)
 [![](https://img.shields.io/badge/coffee%20drunk-YES-6F4E37)](https://github.com/sebmestrallet/absurd-badges)
 
-## Get in Touch
+### might find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keithbloemendaal)
 [![](https://img.shields.io/badge/-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
