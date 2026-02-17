@@ -1,17 +1,11 @@
 ---
-title: "Welcome to My Site"
+title: "Welcome"
 date: 2026-02-17
 categories: general
 ---
 
-This is the first post on my new site. I'm Keith — a fence estimator building tools to streamline my workflow.
+I'm ContractorKeith — a general contractor learning to write code, with help
 
-I've been in the construction industry for over 35 years and recently started building internal tools to make estimating faster and more accurate. This site is where I'll share what I'm working on, what I'm learning, and the occasional note on construction tech.
-
-## What's Coming
-
-- Walkthroughs of the tools I'm building
-- Notes on construction estimating workflows
-- Lessons learned from building software as a non-developer
+I've been in the construction industry for over 37 years and recently started learning to build with code. This site is where I'll share what I'm working on, what I'm learning, and the occasional note on random rants/awakenings.
 
 Stay tuned — more to come.
