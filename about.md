@@ -23,4 +23,3 @@ I will add more as I think of it..
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keithbloemendaal)
 [![](https://img.shields.io/badge/-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
-Find me on [GitHub](https://github.com/ContractorKeith) 
