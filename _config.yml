@@ -3,6 +3,7 @@ title: ContractorKeith
 description: notes from my work and findings along the way
 url: https://contractorkeith.github.io
 baseurl: ""
+logo: https://avatars.githubusercontent.com/u/189427369?s=400&u=8831cbc7eb1e73271f9de0aa1beb83ca0e930030&v=4
 
 # Theme
 remote_theme: pages-themes/architect@v0.2.0

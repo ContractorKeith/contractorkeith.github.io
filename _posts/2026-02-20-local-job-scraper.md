@@ -2,6 +2,7 @@
 title: "local-job-scraper"
 date: 2026-02-20
 categories: projects
+image: https://avatars.githubusercontent.com/u/189427369?s=400&u=8831cbc7eb1e73271f9de0aa1beb83ca0e930030&v=4
 ---
 
 built a python tool this week that scrapes company websites directly for job openings — not indeed, not ziprecruiter.
