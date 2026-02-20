@@ -26,17 +26,19 @@
   <header>
     <div class="inner">
       <div class="header-top">
-        <img
-          src="https://avatars.githubusercontent.com/u/189427369?s=400&u=8831cbc7eb1e73271f9de0aa1beb83ca0e930030&v=4"
-          alt="ContractorKeith" class="header-avatar"
-          style="width:72px;height:72px;border-radius:50%;border:3px solid rgba(255,255,255,0.4);object-fit:cover;flex-shrink:0;">
+        <div class="header-title-row">
+          <img
+            src="https://avatars.githubusercontent.com/u/189427369?s=400&u=8831cbc7eb1e73271f9de0aa1beb83ca0e930030&v=4"
+            alt="ContractorKeith"
+            style="width:56px;height:56px;border-radius:50%;border:3px solid rgba(255,255,255,0.4);object-fit:cover;flex-shrink:0;">
+          <a href="{{ '/' | absolute_url }}" style="text-decoration:none;">
+            <h1 style="margin:0;">{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+        </div>
         {% if site.github.is_user_page %}
         <a href="{{ site.github.owner_url }}" class="button"><small>follow me on</small> github</a>
         {% endif %}
       </div>
-      <a href="{{ '/' | absolute_url }}">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      </a>
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
     </div>
   </header>

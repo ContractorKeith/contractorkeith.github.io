@@ -308,10 +308,18 @@ aside#sidebar {
   margin-bottom: 12px;
 }
 
+/* Avatar sits inline with the title */
+.header-title-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
 .header-avatar {
-  width: 72px;
-  height: 72px;
+  width: 56px;
+  height: 56px;
   border-radius: 50%;
   border: 3px solid rgba(255, 255, 255, 0.4);
   object-fit: cover;
+  flex-shrink: 0;
 }
