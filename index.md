@@ -5,7 +5,7 @@ permalink: /
 
 # Welcome
 
-I'm ContractorKeith - been in construction as an electrician, plumber, GC, home builder, estimator, PM, owner, and anythinbg else you can think of, for 37yrs. I have spent the last couple of years trying to learn code, and I have broken more than I ever did building buildings...
+I'm ContractorKeith - been in construction as an electrician, plumber, GC, home builder, estimator, PM, owner, and anything else you can think of, for 37yrs. I have spent the last couple of years trying to learn code, and I have broken more than I ever did building buildings...
 
 ## What You'll Find Here
 
