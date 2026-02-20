@@ -1,8 +1,8 @@
 <nav class="site-nav">
   <div class="nav-inner">
-    <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>main</a>
-    <a href="{{ '/projects' | relative_url }}" {% if page.url == '/projects' %}class="active"{% endif %}>projects</a>
-    <a href="{{ '/blog' | relative_url }}" {% if page.url == '/blog' %}class="active"{% endif %}>articles</a>
-    <a href="{{ '/notes' | relative_url }}" {% if page.url == '/notes' %}class="active"{% endif %}>notes</a>
+    <a href="{{ '/' | relative_url }}" {% if page.url=='/' %}class="active" {% endif %}>main</a>
+    <a href="{{ '/projects' | relative_url }}" {% if page.url=='/projects' %}class="active" {% endif %}>projects</a>
+    <a href="{{ '/notes' | relative_url }}" {% if page.url=='/notes' %}class="active" {% endif %}>notes</a>
+    <a href="{{ '/about' | relative_url }}" {% if page.url=='/about' %}class="active" {% endif %}>about</a>
   </div>
 </nav>
