@@ -1,11 +1,9 @@
 ---
 title: notes
-permalink: /blog
+permalink: /notes
 ---
 
 # notes
-
-eventually i will write some
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: notes
-permalink: /notes
+title: about
+permalink: /about
 ---
 
 # about Me
